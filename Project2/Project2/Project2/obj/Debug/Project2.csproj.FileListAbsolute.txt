@@ -1,0 +1,26 @@
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Project2.dll
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\obj\Debug\Project2.dll
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
+C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb
