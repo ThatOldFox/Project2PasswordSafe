@@ -27,7 +27,7 @@ namespace Project2.ViewModel
                 }
             }
         }
-        public string Username
+        public string AccountUsername
         {
             get
             {
@@ -42,7 +42,7 @@ namespace Project2.ViewModel
                 }
             }
         }
-        public string Password
+        public string AccountPassword
         {
             get
             {

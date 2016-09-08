@@ -28,3 +28,5 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.ViewPassword.xaml.g.cs
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb

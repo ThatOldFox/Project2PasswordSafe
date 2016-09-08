@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project2.Model
 {
-    class Account
+    public class Account
     {
         public string AccountName { get; set; }
         public string Username { get; set; }

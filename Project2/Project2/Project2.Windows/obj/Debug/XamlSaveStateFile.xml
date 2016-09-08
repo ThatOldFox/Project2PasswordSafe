@@ -1,7 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\steam\source\repos\project2passwordsafe\project2\project2\project2.windows\obj\debug\intermediatexaml\project2.windows.exe" HashGuid="bac16c11-3585-d44f-83c1-0ca77229e212" />
-    <ReferenceAssembly PathName="c:\users\steam\source\repos\project2passwordsafe\project2\project2\project2\bin\debug\project2.dll" HashGuid="a4e5d2fe-2779-277f-edf0-773d1c412116" />
+    <ReferenceAssembly PathName="c:\users\steam\source\repos\project2passwordsafe\project2\project2\project2\bin\debug\project2.dll" HashGuid="2407b0c1-632a-cc50-7e9d-d708e7570985" />
     <ReferenceAssembly PathName="c:\users\steam\source\repos\project2passwordsafe\project2\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
     <ReferenceAssembly PathName="c:\users\steam\source\repos\project2passwordsafe\project2\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
     <ReferenceAssembly PathName="c:\users\steam\source\repos\project2passwordsafe\project2\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
