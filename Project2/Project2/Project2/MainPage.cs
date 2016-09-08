@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
+using System.Threading;
 
 using Xamarin.Forms;
 
@@ -12,12 +13,14 @@ namespace Project2
     {
         public MainPage()
         {
+            this.BindingContext = "SessionDetailsViewModel";
+
             int ButtonHeight = 70;
             int ButtonWidth = 100;
 
             this.Title = "Password Safe";
             var HostLayout = new StackLayout() { Orientation = StackOrientation.Vertical, Padding = 20, BackgroundColor = Color.Teal };
-            var LblTitle = new Label() { WidthRequest = ButtonWidth, Text = "Password Safe", HorizontalTextAlignment = TextAlignment.Center, FontSize = 20, TextColor = Color.White }; 
+            var LblTitle = new Label() { WidthRequest = ButtonWidth, Text = "Password Safe", HorizontalTextAlignment = TextAlignment.Center, FontSize = 20, TextColor = Color.White}; 
             var BtnAddPassword = new Button() {HeightRequest = ButtonHeight , WidthRequest = ButtonWidth, Text = "Add Password", HorizontalOptions = LayoutOptions.FillAndExpand, BorderWidth = 1, BorderRadius = 2 };
             var BtnViewPasswords = new Button() { HeightRequest = ButtonHeight, WidthRequest = ButtonWidth, Text = "View Passwords", HorizontalOptions = LayoutOptions.FillAndExpand, BorderWidth = 1, BorderRadius = 2 };
             var BtnEncryptString = new Button() { HeightRequest = ButtonHeight, WidthRequest = ButtonWidth, Text = "Encrypt String", HorizontalOptions = LayoutOptions.FillAndExpand, BorderWidth = 1, BorderRadius = 2 };
@@ -31,7 +34,27 @@ namespace Project2
             this.BackgroundColor = Color.Teal;
 
             Content = HostLayout;
+
+            BtnAddPassword.Clicked += delegate { AddPasswordClick(); };
+            BtnViewPasswords.Clicked += delegate { ViewPasswordClick(); };
+            BtnEncryptString.Clicked += delegate { BtnEncryptStringClick(); };
            
         }
+
+        async void BtnEncryptStringClick()
+        {
+            await Navigation.PushAsync(new Encrypt());
+        }
+
+        async void ViewPasswordClick()
+        {
+            await Navigation.PushAsync(new ViewPasswords());
+        }
+
+        async void AddPasswordClick()
+        {
+            await Navigation.PushAsync(new AddAcount());
+        }
+
     }
 }
