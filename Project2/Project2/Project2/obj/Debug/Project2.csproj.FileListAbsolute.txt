@@ -20,5 +20,11 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.MainPage.xaml.g.cs
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.AddAccount.xaml.g.cs
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.Register.xaml.g.cs
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.ViewPasswords.xaml.g.cs
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.Encrypt.xaml.g.cs
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.ViewPassword.xaml.g.cs
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb

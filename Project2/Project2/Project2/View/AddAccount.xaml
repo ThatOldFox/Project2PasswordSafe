@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project2.View.AddAccount" BackgroundColor="Teal" Title="Password Safe">
+  
+          <ContentPage.Content Padding="10,20,10,5" BackgroundColor="Teal">
+            <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal">
+              <Label WidthRequest = "100" Text = "Add Account" HorizontalTextAlignment="Center" FontSize = "20" TextColor = "Color.White"/>
+
+              <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal" Spacing="8">
+                <Label WidthRequest="100" Text="Account Name" HorizontalTextAlignment="Start" FontSize="16" TextColor="Color.White"/>
+                <Entry x:Name="txtAccountName" HeightRequest="40" WidthRequest="100" Placeholder="Enter an Account Name" HorizontalOptions="LayoutOptions.FillAndExpand"/>
+              </StackLayout>
+
+              <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal" Spacing="8">
+
+                <Label WidthRequest="100" Text="Username" HorizontalTextAlignment="Start" FontSize="16" TextColor="Color.White"/>
+                <Entry x:Name="txtUsername" HeightRequest="40" WidthRequest="100" Placeholder="Enter a username" HorizontalOptions="LayoutOptions.FillAndExpand"/>
+              </StackLayout>
+
+              <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal" Spacing="8">
+                <Label WidthRequest="100" Text="Password" HorizontalTextAlignment="Start" FontSize="16" TextColor="Color.White"/>
+                <Entry x:Name="txtPassword" HeightRequest="40" WidthRequest="100" Placeholder="Enter a password" HorizontalOptions="LayoutOptions.FillAndExpand"/>
+
+              </StackLayout>
+              <Button HeightRequest = "70" WidthRequest = "100" Text = "Add Account" HorizontalOptions = "LayoutOptions.FillAndExpand" BorderWidth = "1" BorderRadius = "2" />
+            </StackLayout>
+          </ContentPage.Content>
+ 
+</ContentPage>

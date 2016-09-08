@@ -13,7 +13,7 @@ namespace Project2
         {
 
             // The root page of your application
-            var NP = new NavigationPage(new MainPage());
+            var NP = new NavigationPage(new View.MainPage());
             MainPage = NP;
            
         }

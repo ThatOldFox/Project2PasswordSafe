@@ -1,0 +1,2 @@
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Windows\Project2.Windows.csproj;neutral
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\Project2.csproj;neutral
