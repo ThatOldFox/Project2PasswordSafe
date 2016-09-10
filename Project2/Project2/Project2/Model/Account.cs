@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using SQLite.Net.Attributes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +10,8 @@ namespace Project2.Model
 {
     public class Account
     {
+        [PrimaryKey]
+        public int id { get; set; }
         public string AccountName { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
