@@ -6,7 +6,8 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections.Specialized;
-
+using Newtonsoft.Json;
+using Project2.Model;
 
 namespace Project2.Data
 {
@@ -14,23 +15,13 @@ namespace Project2.Data
     {
 
         HttpClient Client = new HttpClient();
-
-        async public void Db()
+        List<Account> ConferenceSessions = null;
+        async public void AddPasswordToDb()
         {
-           
-            string Url = "http://www.deakin.edu.au/~jgallop/PasswordSafeBackend/getAccounts.php";
+            string n = "test";
 
-            var UserAccount = "Dummy";
-            var AccountName = "Dummy";
-            var Username = "Dummy";
-            var Password = "Dummy";
-
-            var response = await Client.GetAsync(Url);
-
-            if (response.IsSuccessStatusCode)
-            {
-                var content = await response.Content.ReadAsStringAsync();
-            }
+            string Url1 = "http://10.0.0.61:34592/api/conferencesessions/" + n + "/" + n + "/" + n + "/" + n;
+            var response = await Client.GetAsync(Url1);
         }
     }
 }

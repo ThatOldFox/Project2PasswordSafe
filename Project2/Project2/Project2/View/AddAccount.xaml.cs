@@ -18,7 +18,7 @@ namespace Project2.View
         public void AddToDb(object sender, EventArgs e)
         {
             Data.Database db = new Data.Database();
-            db.Db();
+            db.AddPasswordToDb();
         }
 
     }
