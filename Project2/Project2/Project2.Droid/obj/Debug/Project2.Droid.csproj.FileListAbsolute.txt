@@ -113,5 +113,7 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droi
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Security.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb
