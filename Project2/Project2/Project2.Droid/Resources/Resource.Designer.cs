@@ -26,6 +26,8 @@ namespace Project2.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::PCLCrypto.Resource.String.ApplicationName = global::Project2.Droid.Resource.String.ApplicationName;
+			global::PCLCrypto.Resource.String.Hello = global::Project2.Droid.Resource.String.Hello;
 			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::Project2.Droid.Resource.String.ApplicationName;
 			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.Hello = global::Project2.Droid.Resource.String.Hello;
 			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_in = global::Project2.Droid.Resource.Animation.abc_fade_in;

@@ -11,7 +11,7 @@ namespace Project2.ViewModel
     class AccountDetailsViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
-        public Model.Account account = new Model.Account("Test", "Test", "Test");
+        public Model.DecryptedAccount account = new Model.DecryptedAccount();
         public string AccountName
         {
             get

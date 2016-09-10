@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Project2/Project2/Project2.Droid/obj/Debug/resourcecache
+/Project2/Project2/Project2.Droid/obj/Debug/__library_projects__/PCLCrypto/library_project_imports/res/values
+/Project2/Project2/Project2.Droid/obj/Debug/__library_projects__/PCLCrypto/library_project_imports/__res_name_case_map.txt
+/Project2/UpgradeLog.htm

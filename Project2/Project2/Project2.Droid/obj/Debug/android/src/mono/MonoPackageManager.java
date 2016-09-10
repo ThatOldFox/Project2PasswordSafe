@@ -100,6 +100,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "Project2.Droid.dll" comes first in this list. */
 		"Project2.Droid.dll",
 		"FormsViewGroup.dll",
+		"PCLCrypto.dll",
 		"SQLite.Net.dll",
 		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"Validation.dll",
@@ -113,13 +114,17 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"Java.Interop.dll",
-		"System.Security.dll",
 		"Project2.dll",
+		"System.Security.dll",
+		"PInvoke.BCrypt.dll",
 		"System.Runtime.dll",
+		"PInvoke.Windows.Core.dll",
+		"System.Diagnostics.Debug.dll",
+		"System.Runtime.InteropServices.dll",
+		"PInvoke.Kernel32.dll",
+		"System.Runtime.Extensions.dll",
 		"System.Collections.dll",
 		"System.Reflection.dll",
-		"System.Diagnostics.Debug.dll",
-		"System.Runtime.Extensions.dll",
 		"System.Linq.Expressions.dll",
 		"System.Linq.dll",
 		"System.Reflection.Extensions.dll",
@@ -137,7 +142,6 @@ class MonoPackageManager_Resources {
 		"System.ServiceModel.Internals.dll",
 		"System.Text.RegularExpressions.dll",
 		"System.Collections.Concurrent.dll",
-		"System.Runtime.InteropServices.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

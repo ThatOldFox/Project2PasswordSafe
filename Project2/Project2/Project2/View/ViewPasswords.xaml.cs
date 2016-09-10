@@ -25,7 +25,7 @@ namespace Project2.View
             else
             {
                 var accountVM = new ViewModel.AccountDetailsViewModel();
-                accountVM.account = (Model.Account)e.SelectedItem;
+                accountVM.account = (Model.DecryptedAccount)e.SelectedItem;
 
                 var accountDetailsPage = new View.ViewPassword();
                 accountDetailsPage.BindingContext = accountVM;
