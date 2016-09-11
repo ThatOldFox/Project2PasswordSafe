@@ -74,5 +74,6 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Validation.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Newtonsoft.Json.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.SyncWithApi.xaml.g.cs
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb

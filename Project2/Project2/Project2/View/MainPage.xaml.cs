@@ -10,9 +10,14 @@ namespace Project2.View
 {
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        private string _UserName;
+        
+
+        public MainPage(string UserName)
         {
             InitializeComponent();
+            _UserName = UserName;
+           
         }
 
         async void BtnEncryptStringClick(object sender, EventArgs e)
@@ -27,7 +32,8 @@ namespace Project2.View
 
         async void AddPasswordClick(object Sender, EventArgs e)
         {
-            await Navigation.PushAsync(new View.AddAccount());
+
+            await Navigation.PushAsync(new View.AddAccount(_UserName));
         }
 
     }

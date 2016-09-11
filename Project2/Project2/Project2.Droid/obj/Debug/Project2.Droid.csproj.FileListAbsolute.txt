@@ -181,5 +181,11 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droi
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Security.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb

@@ -18,7 +18,8 @@
                 <Entry x:Name="txtPassword" HeightRequest="40" WidthRequest="100" Placeholder="Enter a password" HorizontalOptions="LayoutOptions.FillAndExpand"/>
 
               </StackLayout>
-              <Button HeightRequest = "70" WidthRequest = "100" Text = "Login" HorizontalOptions = "LayoutOptions.FillAndExpand" BorderWidth = "1" BorderRadius = "2" />
+              <Button HeightRequest = "70" WidthRequest = "100" Text = "Login" HorizontalOptions = "LayoutOptions.FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="login" />
+              <Button HeightRequest = "70" WidthRequest = "100" Text = "Register" HorizontalOptions = "LayoutOptions.FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="Register" />
             </StackLayout>
           </ContentPage.Content>
           

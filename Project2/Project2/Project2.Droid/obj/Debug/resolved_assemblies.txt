@@ -53,3 +53,9 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droi
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Security.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.CSharp.dll
