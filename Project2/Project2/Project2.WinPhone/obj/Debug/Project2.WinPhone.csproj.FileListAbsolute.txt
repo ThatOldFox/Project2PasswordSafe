@@ -45,3 +45,13 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinP
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Xamarin.Forms.Platform.WinRT.Phone.pri.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\SQLite.Net.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\PCLCrypto.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\Validation.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\PCLCrypto.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\Validation.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\en-US\Validation.Strings.resw
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation.pri
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\qualifiers.txt
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\Newtonsoft.Json.xml
