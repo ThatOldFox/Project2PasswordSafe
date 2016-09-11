@@ -12,16 +12,17 @@ namespace Project2.Model
     {
         [PrimaryKey]
         public int id { get; set; }
-        public string AccountName { get; set; }
-        public string Username { get; set; }
-        public string Password { get; set; }
+        public byte[] AccountName { get; set; }
+        public byte[] Username { get; set; }
+        public byte[] Password { get; set; }
+        public byte[] User { get; set; }
 
         public Account()
         {
 
         }
 
-        public Account(string AccountName, string Username, string Password)
+        public Account(byte[] AccountName, byte[] Username, byte[] Password)
         {
             this.AccountName = AccountName;
             this.Username = Username;

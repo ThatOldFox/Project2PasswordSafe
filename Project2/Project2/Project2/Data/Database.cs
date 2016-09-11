@@ -5,15 +5,23 @@ using System.Net;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.Specialized;
+using Newtonsoft.Json;
+using Project2.Model;
 
 namespace Project2.Data
 {
     class Database
     {
-        public void Db()
+
+        HttpClient Client = new HttpClient();
+        List<Account> ConferenceSessions = null;
+        async public void AddPasswordToDb()
         {
-            HttpClient Client = new HttpClient();
-            Uri Url = new Uri("http://www.deakin.edu.au/~jgallop/PasswordSafeBackend/getAccounts.php");
+            string n = "test";
+
+            string Url1 = "http://10.0.0.61:34592/api/conferencesessions/" + n + "/" + n + "/" + n + "/" + n;
+            var response = await Client.GetAsync(Url1);
         }
     }
 }

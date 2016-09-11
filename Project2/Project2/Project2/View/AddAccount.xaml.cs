@@ -14,5 +14,12 @@ namespace Project2.View
         {
             InitializeComponent();
         }
+
+        public void AddToDb(object sender, EventArgs e)
+        {
+            Data.Database db = new Data.Database();
+            db.AddPasswordToDb();
+        }
+
     }
 }
