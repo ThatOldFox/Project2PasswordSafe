@@ -1,61 +1,13 @@
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.pdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.apk
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid-Signed.apk
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\FormsViewGroup.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.pdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.csprojResolveAssemblyReference.cache
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.pdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\bin\Project2.Droid.apk
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\res\drawable\icon.png
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-hdpi\icon.png
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\R.cs.flag
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\uploadflags.txt
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Java.Interop.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\Mono.Android.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\mscorlib.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.Core.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.Net.Http.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.Droid.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Core.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\steam\Documents\Visual Studio 2015\Projects\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.pdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.apk
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid-Signed.apk
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Validation.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
@@ -65,16 +17,16 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droi
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.pdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Validation.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.csprojResolveAssemblyReference.cache
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.pdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.pdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.apk
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid-Signed.apk
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\bin\Project2.Droid.apk
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable\icon.png
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-hdpi\icon.png
@@ -83,19 +35,28 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droi
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\R.cs.flag
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\uploadflags.txt
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Core.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Numerics.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.Linq.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.Droid.dll.mdb
@@ -103,89 +64,84 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droi
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Core.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Security.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Validation.dll
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Validation.xml
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.dll
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.pdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.apk
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid-Signed.apk
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\FormsViewGroup.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Validation.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.pdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Validation.xml
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.csprojResolveAssemblyReference.cache
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.pdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\bin\Project2.Droid.apk
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable\icon.png
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-hdpi\icon.png
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\R.cs.flag
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\uploadflags.txt
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.dll
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.xml
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Java.Interop.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Android.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\mscorlib.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Core.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Net.Http.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Numerics.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.Droid.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Core.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\Babsticles\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.dll
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.xml
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Numerics.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Security.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\System.Security.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Security.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.dll
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.xml
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Mono.CSharp.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
-C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.pdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.apk
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid-Signed.apk
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Validation.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.pdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\PCLCrypto.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Validation.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.csprojResolveAssemblyReference.cache
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.pdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\bin\Project2.Droid.apk
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\R.cs.flag
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\uploadflags.txt
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Mono.Security.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Numerics.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Security.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Mono.Security.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\Project2.Droid.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Security.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\obj\Debug\Project2.Droid.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.Droid\bin\Debug\Project2.Droid.dll.mdb

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Project2.Data;
+using System.Text.RegularExpressions;
 
 using Xamarin.Forms;
 
@@ -21,9 +22,30 @@ namespace Project2.View
 
             string UserName = txtUsername.Text;
             string PassWord = txtPassword.Text;
+            bool InvalidCredentials = false;
+            bool error = false;
 
-            Database DB = new Database();
-            bool error = await DB.Login(UserName, PassWord);
+            Regex UserPass = new Regex("^[a-zA-Z0-9]*$");
+            Regex AccountUser = new Regex("^[a-zA-Z0-9]*$");
+
+            Match test = AccountUser.Match(UserName);
+            if(!test.Success)
+            {
+                InvalidCredentials = true;
+            }
+
+            test = UserPass.Match(PassWord);
+            if(!test.Success)
+            {
+                InvalidCredentials = true;
+            }
+
+            if (InvalidCredentials == false)
+            {
+                Database DB = new Database();
+                error = await DB.Login(UserName, PassWord);
+            }
+
 
             if (error == true)
             {
@@ -39,7 +61,7 @@ namespace Project2.View
             }
             else
             {
-                //Alert User
+                LblError.Text = "Username/Password Was Incorrect";
             }
         }
 

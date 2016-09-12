@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 using Xamarin.Forms;
 
@@ -24,10 +25,34 @@ namespace Project2.View
         /// <param name="e"></param>
         async void BtnUpdate(object sender, EventArgs e)
         {
-            //connect to DB and send query
-            Data.Database db = new Data.Database();
-            bool error = await db.UpdateAccount(_UserName, lblAccountName.Text, txtUsername.Text, txtPassword.Text );
+            bool error = false;
 
+            Regex UserPass = new Regex("^[a-zA-Z0-9]*$+");
+            Regex AccountUser = new Regex("^[a-zA-Z0-9]*$+");
+            bool InvalidCredentials = false;
+
+            Match test = AccountUser.Match(txtUsername.Text);
+            if (!test.Success)
+            {
+                InvalidCredentials = true;
+                error = true;
+            }
+
+            test = UserPass.Match(txtPassword.Text);
+            if (!test.Success)
+            {
+                InvalidCredentials = true;
+                error = true;
+            }
+
+            if (InvalidCredentials == false)
+            {
+                Data.Database db = new Data.Database();
+                error = await db.UpdateAccount(_UserName, lblAccountName.Text, txtUsername.Text, txtPassword.Text);
+            }
+
+            //connect to DB and send query
+         
             if (error == false)
             {
                 //notify user the account was Updated

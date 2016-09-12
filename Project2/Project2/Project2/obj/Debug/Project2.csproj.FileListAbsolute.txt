@@ -75,6 +75,41 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Newtonsoft.Json.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Newtonsoft.Json.xml
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.View.SyncWithApi.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Project2.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PCLCrypto.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\SQLite.Net.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Validation.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PCLCrypto.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Validation.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.MainPage.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.Encrypt.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.AddAccount.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.Register.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.ViewPasswords.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.ViewPassword.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.Login.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.View.SyncWithApi.xaml.g.cs
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.dll
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
+C:\Users\steam\Documents\Backup Of Password Safe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\bin\Debug\Project2.dll.mdb
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2\obj\Debug\Project2.dll.mdb

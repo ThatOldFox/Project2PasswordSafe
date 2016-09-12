@@ -26,11 +26,15 @@ namespace Project2.View {
         private global::Xamarin.Forms.Entry txtPassword;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label lblResult;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(AddAccount));
             txtAccountName = this.FindByName<global::Xamarin.Forms.Entry>("txtAccountName");
             txtUsername = this.FindByName<global::Xamarin.Forms.Entry>("txtUsername");
             txtPassword = this.FindByName<global::Xamarin.Forms.Entry>("txtPassword");
+            lblResult = this.FindByName<global::Xamarin.Forms.Label>("lblResult");
         }
     }
 }

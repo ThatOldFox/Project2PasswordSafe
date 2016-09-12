@@ -17,16 +17,24 @@ namespace Project2.View {
     public partial class ViewPassword : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label lblAccountName;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Entry txtUsername;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Entry txtPassword;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label lblResult;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(ViewPassword));
+            lblAccountName = this.FindByName<global::Xamarin.Forms.Label>("lblAccountName");
             txtUsername = this.FindByName<global::Xamarin.Forms.Entry>("txtUsername");
             txtPassword = this.FindByName<global::Xamarin.Forms.Entry>("txtPassword");
+            lblResult = this.FindByName<global::Xamarin.Forms.Label>("lblResult");
         }
     }
 }

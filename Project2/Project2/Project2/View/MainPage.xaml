@@ -3,15 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Project2.View.MainPage" Title="Password Safe">
   <ContentPage.Content BackgroundColor="Teal" Padding="10,20,10,5">
-    
-    <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal">
-    <Label WidthRequest="100" Text="Password Safe" HorizontalTextAlignment="Center" FontSize="20" TextColor="White" />
-    <Button HeightRequest = "70"  WidthRequest = "100" Text = "Add Password" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="AddPasswordClick"/>
-    <Button HeightRequest = "70"  WidthRequest = "100" Text = "View Passwords" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="ViewPasswordClick"/>
-    <Button HeightRequest = "70"  WidthRequest = "100" Text = "Encrypt String" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="BtnEncryptStringClick"/>
-    <Button HeightRequest = "70"  WidthRequest = "100" Text = "Sync Accounts" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="BtnSyncClick"/>
-    <Button HeightRequest = "70"  WidthRequest = "100" Text = "Logout" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="LogoutClick"/>
-  
-    </StackLayout>
+    <ScrollView>
+      <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal">
+        <Label WidthRequest="100" Text="Password Safe" HorizontalTextAlignment="Center" FontSize="20" TextColor="White" />
+        <Button HeightRequest = "70"  WidthRequest = "100" Text = "Add Password" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="AddPasswordClick"/>
+        <Button HeightRequest = "70"  WidthRequest = "100" Text = "View Passwords" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="ViewPasswordClick"/>
+        <Button HeightRequest = "70"  WidthRequest = "100" Text = "Encrypt String" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="BtnEncryptStringClick"/>
+        <Button HeightRequest = "70"  WidthRequest = "100" Text = "Sync Accounts" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="BtnSyncClick"/>
+        <Button HeightRequest = "70"  WidthRequest = "100" Text = "Logout" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="LogoutClick"/>
+
+      </StackLayout>
+    </ScrollView>
   </ContentPage.Content>
 </ContentPage>

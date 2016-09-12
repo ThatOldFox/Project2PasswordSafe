@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Project2.Data;
+using System.Text.RegularExpressions;
 
 using Xamarin.Forms;
 
@@ -21,9 +22,42 @@ namespace Project2.View
 
         async void AddToDb(object sender, EventArgs e)
         {
+            bool InvalidCredentials = false;
+            bool error = false;
 
-            Data.Database db = new Data.Database();
-            bool error = await db.AddPasswordToDb(txtUsername.Text, txtPassword.Text, txtAccountName.Text, _UserAccount);
+           
+
+            Regex AccountUser = new Regex("^[a-zA-Z0-9]*$");
+            Match test = AccountUser.Match(txtAccountName.Text);
+            if (!test.Success)
+            {
+                InvalidCredentials = true;
+                error = true;
+            }
+
+            test = AccountUser.Match(txtUsername.Text);
+            if (!test.Success)
+            {
+                InvalidCredentials = true;
+                error = true;
+            }
+
+
+            Regex UserPass = new Regex("^[a-zA-Z0-9]*$");
+            test = UserPass.Match(txtPassword.Text);
+            if (!test.Success)
+            {
+                InvalidCredentials = true;
+                error = true;
+            }
+
+           
+
+            if (InvalidCredentials == false)
+            {
+                Data.Database db = new Data.Database();
+                error = await db.AddPasswordToDb(txtUsername.Text, txtPassword.Text, txtAccountName.Text, _UserAccount);
+            }
 
             if(error == false)
             {

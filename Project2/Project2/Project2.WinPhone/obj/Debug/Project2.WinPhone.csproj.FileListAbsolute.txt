@@ -55,3 +55,11 @@ C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinP
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\qualifiers.txt
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\Newtonsoft.Json.dll
 C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\layout.resfiles
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\layout.resfiles.intermediate
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\Resources.resfiles
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\Resources.resfiles.intermediate
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\pri.resfiles
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\pri.resfiles.intermediate
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\priconfig.xml
+C:\Users\steam\Source\Repos\Project2PasswordSafe\Project2\Project2\Project2.WinPhone\obj\Debug\Validation\priconfig.xml.intermediate
