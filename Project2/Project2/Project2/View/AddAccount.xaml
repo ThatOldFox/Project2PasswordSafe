@@ -24,6 +24,7 @@
 
               </StackLayout>
               <Button HeightRequest = "70" WidthRequest = "100" Text = "Add Account" HorizontalOptions = "LayoutOptions.FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="AddToDb" />
+              <Label x:Name="lblResult" WidthRequest="100" Text="" HorizontalTextAlignment="Center" FontSize="18" TextColor="Color.White"/>
             </StackLayout>
           </ContentPage.Content>
  

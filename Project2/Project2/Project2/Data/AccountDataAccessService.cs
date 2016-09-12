@@ -10,34 +10,68 @@ using Xamarin.Forms;
 
 namespace Project2.Data
 {
+    /// <summary>
+    /// Handles SQLite interactions
+    /// </summary>
     class AccountDataAccessService
     {
+
         public SQLiteConnection DBConnection;
-        /*public SQLiteConnection DBConnection
-        {
-            get { return _DBConnection; }
-            set { _DBConnection = value; }
-        }*/
+        /// <summary>
+        /// Constructor
+        /// </summary>
         public AccountDataAccessService()
         {
-
+            //SQLite connection
             DBConnection = DependencyService.Get<ISQLite>().GetConnection();
+            //create sqlite tables
             DBConnection.CreateTable<Model.Account>();
-
-            DBConnection.DeleteAll<Model.Account>();
-
-            DBConnection.Insert(new Model.Account{ id=1, AccountName = Crypto.EncryptToBytes("Facebook"), Username = Crypto.EncryptToBytes("Jack"), Password = Crypto.EncryptToBytes("JACKJACK")});
-            DBConnection.Insert(new Model.Account { id = 2, AccountName = Crypto.EncryptToBytes("Deakin"), Username = Crypto.EncryptToBytes("Nbabinal"), Password = Crypto.EncryptToBytes("Poisewoid") });
-            DBConnection.Insert(new Model.Account { id = 3, AccountName = Crypto.EncryptToBytes("GMail"), Username = Crypto.EncryptToBytes("Dmills@google.com"), Password = Crypto.EncryptToBytes("1234") });
+            DBConnection.CreateTable<Model.Login>();
+           
 
         }
+        /// <summary>
+        /// Method to get accounts from SQlite database
+        /// </summary>
+        /// <returns>Returns list of accounts from SQlite database</returns>
         public List<Model.Account> GetAllAccounts()
         {
             return  DBConnection.Table<Model.Account>().ToList();
         }
+        /// <summary>
+        /// Add an account to the SQLite database
+        /// </summary>
+        /// <param name="newAccount">the account credentials to add to the DB</param>
         public void AddAccount(Model.Account newAccount)
         {
             DBConnection.Insert(newAccount);
         }
+        /// <summary>
+        /// Sets login paramater for SQLite database
+        /// </summary>
+        /// <param name="newLogin">the user to login to the app</param>
+        public void AddLogin(Model.Login newLogin)
+        {
+            DBConnection.Insert(newLogin);
+        }
+        /// <summary>
+        /// Retrieves login status
+        /// </summary>
+        /// <returns>the user that has logged in previously</returns>
+        public List<Model.Login> GetLogin()
+        {
+            return DBConnection.Table<Model.Login>().ToList();
+        }
+        /// <summary>
+        /// Deletes everything in the SQLite database, and then re pulls all data
+        /// </summary>
+        /// <param name="UserName">the username of the expected data</param>
+        public async void Resync(string UserName)
+        {
+            DBConnection.DeleteAll<Model.Account>();
+            Data.Database Db = new Data.Database();
+            bool error = await Db.GetAccounts(UserName);
+        }
+
     }
 }

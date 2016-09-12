@@ -9,6 +9,8 @@
     <Button HeightRequest = "70"  WidthRequest = "100" Text = "Add Password" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="AddPasswordClick"/>
     <Button HeightRequest = "70"  WidthRequest = "100" Text = "View Passwords" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="ViewPasswordClick"/>
     <Button HeightRequest = "70"  WidthRequest = "100" Text = "Encrypt String" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="BtnEncryptStringClick"/>
+    <Button HeightRequest = "70"  WidthRequest = "100" Text = "Sync Accounts" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="BtnSyncClick"/>
+    <Button HeightRequest = "70"  WidthRequest = "100" Text = "Logout" HorizontalOptions ="FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="LogoutClick"/>
   
     </StackLayout>
   </ContentPage.Content>

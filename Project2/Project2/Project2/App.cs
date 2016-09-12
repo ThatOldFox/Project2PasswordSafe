@@ -11,10 +11,19 @@ namespace Project2
     {
         public App()
         {
-
             // The root page of your application
-            var NP = new NavigationPage(new View.Login());
-            MainPage = NP;
+            Data.AccountDataAccessService adas = new Data.AccountDataAccessService();
+            List<Model.Login> login = adas.GetLogin();
+            if(login.Count == 1)
+            {
+                var NP = new NavigationPage(new View.SyncWithApi(login[0].User));
+                MainPage = NP;
+            }
+            else
+            {
+                var NP = new NavigationPage(new View.Login());
+                MainPage = NP;
+            }
            
         }
 

@@ -11,9 +11,11 @@ namespace Project2.View
 {
     public partial class ViewPasswords : ContentPage
     {
-        public ViewPasswords()
+        private string _UserName;
+        public ViewPasswords(string UserName)
         {
             InitializeComponent();
+            _UserName = UserName;
         }
 
         async void OnAccountSelected(object selected, SelectedItemChangedEventArgs e)
@@ -27,7 +29,7 @@ namespace Project2.View
                 var accountVM = new ViewModel.AccountDetailsViewModel();
                 accountVM.account = (Model.DecryptedAccount)e.SelectedItem;
 
-                var accountDetailsPage = new View.ViewPassword();
+                var accountDetailsPage = new View.ViewPassword(_UserName);
                 accountDetailsPage.BindingContext = accountVM;
                 await Navigation.PushAsync(accountDetailsPage);
 

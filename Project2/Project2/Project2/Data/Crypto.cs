@@ -80,19 +80,8 @@ namespace Project2.Data
                 ISymmetricKeyAlgorithmProvider aesCrypto = WinRTCrypto.SymmetricKeyAlgorithmProvider.OpenAlgorithm(SymmetricAlgorithm.AesCbcPkcs7);
                 ICryptographicKey symmtricKey = aesCrypto.CreateSymmetricKey(_derivedKey);
                 ICryptoTransform decryptor = WinRTCrypto.CryptographicEngine.CreateDecryptor(symmtricKey);
-              
-                try
-                {
-                    encryptedText.ToString();
-                    byte[] decryptedText = decryptor.TransformFinalBlock(encryptedText, 0, encryptedText.Length);
-                    return Encoding.UTF8.GetString(decryptedText, 0, decryptedText.Length);
-                }
-                catch(Exception e)
-                {
-                    Debug.WriteLine("-----------------------------"+e.ToString());
-                    byte[] decryptedText = decryptor.TransformFinalBlock(encryptedText, 0, encryptedText.Length);
-                    return Encoding.UTF8.GetString(decryptedText, 0, decryptedText.Length);
-                }
+                byte[] decryptedText = decryptor.TransformFinalBlock(encryptedText, 0, encryptedText.Length);
+                return Encoding.UTF8.GetString(decryptedText, 0, decryptedText.Length);
                
             }
         }

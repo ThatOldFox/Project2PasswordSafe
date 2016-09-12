@@ -28,6 +28,12 @@ namespace Project2.View
             if (error == true)
             {
                 //On Regester also need a way of storing a variable for the username for inserting into accounts 
+                //new user login object
+                Model.Login login = new Model.Login() {User = UserName};
+                AccountDataAccessService adas = new AccountDataAccessService();
+                //store login
+                adas.AddLogin(login);
+                //navigate to sync screen
                 Navigation.InsertPageBefore(new SyncWithApi(UserName), this);
                 await Navigation.PopAsync().ConfigureAwait(false);
             }
