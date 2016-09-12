@@ -10,7 +10,7 @@ namespace Project2.Model
 {
     public class Account
     {
-        [PrimaryKey]
+        [PrimaryKey, AutoIncrement]
         public int id { get; set; }
         public byte[] AccountName { get; set; }
         public byte[] Username { get; set; }

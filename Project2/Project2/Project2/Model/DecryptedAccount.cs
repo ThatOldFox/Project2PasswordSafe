@@ -10,7 +10,7 @@ namespace Project2.Model
 {
     public class DecryptedAccount
     {
-        [PrimaryKey]
+        [PrimaryKey, AutoIncrement]
         public int id { get; set; }
         public string AccountName { get; set; }
         public string Username { get; set; }

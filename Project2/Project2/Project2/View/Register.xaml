@@ -20,7 +20,7 @@
       </StackLayout>
 
       <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal" Spacing="8">
-        <Label WidthRequest="100" Text="Username" HorizontalTextAlignment="Start" FontSize="16" TextColor="Color.White"/>
+        <Label WidthRequest="100" Text="Password" HorizontalTextAlignment="Start" FontSize="16" TextColor="Color.White"/>
         <Entry x:Name="txtPassword" HeightRequest="40" WidthRequest="100" Placeholder="Enter a password" HorizontalOptions="LayoutOptions.FillAndExpand"/>
 
       </StackLayout>
