@@ -8,12 +8,14 @@
   
   
   <ContentPage.Content BackgroundColor="Teal" Padding="10,20,10,5">
-
+    <ScrollView>
+      
+    
     <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal">
       <ActivityIndicator Color="Black" IsRunning="true" />
       <Label WidthRequest="100" Text="Syncing With Database" HorizontalTextAlignment="Center" FontSize="20" TextColor="White" />
     </StackLayout>
-    
+    </ScrollView>
     
   </ContentPage.Content>
   

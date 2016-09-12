@@ -27,7 +27,6 @@ namespace Project2.Data
             //create sqlite tables
             DBConnection.CreateTable<Model.Account>();
             DBConnection.CreateTable<Model.Login>();
-           
 
         }
         /// <summary>

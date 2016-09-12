@@ -40,6 +40,7 @@ namespace Project2.View
             else
             {
                 //Alert User
+                lblResult.Text = "Failed to login, check connection";
             }
         }
 

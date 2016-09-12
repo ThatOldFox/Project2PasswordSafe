@@ -26,9 +26,6 @@ namespace Project2.View
             Database DB = new Database();
             bool error = await DB.Register(Email, UserName, Password);
 
-           
-            
-
             if (error == false)
             {
                 //On Regester also need a way of storing a variable for the username for inserting into accounts 
@@ -38,6 +35,7 @@ namespace Project2.View
             else
             {
                 //Alert User
+                lblResult.Text = "Failed to register - Check connection";
             }
         }
     }

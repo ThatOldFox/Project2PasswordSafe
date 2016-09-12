@@ -4,6 +4,9 @@
              x:Class="Project2.View.AddAccount" BackgroundColor="Teal" Title="Password Safe">
   
           <ContentPage.Content Padding="10,20,10,5" BackgroundColor="Teal">
+            <ScrollView>
+              
+            
             <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal">
               <Label WidthRequest = "100" Text = "Add Account" HorizontalTextAlignment="Center" FontSize = "20" TextColor = "Color.White"/>
 
@@ -26,6 +29,7 @@
               <Button HeightRequest = "70" WidthRequest = "100" Text = "Add Account" HorizontalOptions = "LayoutOptions.FillAndExpand" BorderWidth = "1" BorderRadius = "2" Clicked="AddToDb" />
               <Label x:Name="lblResult" WidthRequest="100" Text="" HorizontalTextAlignment="Center" FontSize="18" TextColor="Color.White"/>
             </StackLayout>
+            </ScrollView>
           </ContentPage.Content>
  
 </ContentPage>

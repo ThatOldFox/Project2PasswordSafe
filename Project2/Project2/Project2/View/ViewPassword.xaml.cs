@@ -41,7 +41,7 @@ namespace Project2.View
             else
             {
                 //notify some error occured
-                lblResult.Text = "Error updating account";
+                lblResult.Text = "Error updating account - Check Connection";
             }
         }
         /// <summary>
@@ -68,7 +68,7 @@ namespace Project2.View
             else
             {
                 //notify some error occured
-                lblResult.Text = "Error deleting account";
+                lblResult.Text = "Error deleting account - Check Connection";
             }
         }
     }
