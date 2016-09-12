@@ -9,6 +9,7 @@ using System.Collections.Specialized;
 using Newtonsoft.Json;
 using Project2.Model;
 
+
 namespace Project2.Data
 {
     class Database
@@ -30,7 +31,6 @@ namespace Project2.Data
                 var content = await response.Content.ReadAsStringAsync();
                 error = JsonConvert.DeserializeObject<bool>(content);
             }
-
             return error;
         }
 
