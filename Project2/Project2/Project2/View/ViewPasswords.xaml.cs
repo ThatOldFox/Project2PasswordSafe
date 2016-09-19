@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*References
+ * - Seridonio,P,2016,Cryptography Shared Code,Xamarin, Retrieved 10/09/2016 
+ *   https://forums.xamarin.com/discussion/64399/cryptography-shared-code
+ */
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -27,7 +31,7 @@ namespace Project2.View
             else
             {
                 var accountVM = new ViewModel.AccountDetailsViewModel();
-                accountVM.account = (Model.DecryptedAccount)e.SelectedItem;
+                accountVM.account = (Model.DecryptedAccount)e.SelectedItem; //Seridonio,2016
 
                 var accountDetailsPage = new View.ViewPassword(_UserName);
                 accountDetailsPage.BindingContext = accountVM;

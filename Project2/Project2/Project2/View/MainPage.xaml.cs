@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*references
+ *- Ford,K,2015,Xamarin.Forms removing a page,StackOverFlow,Retrived 08/09/2016
+ *  http://stackoverflow.com/questions/29042792/xamarin-forms-removing-a-page
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,11 +22,6 @@ namespace Project2.View
             InitializeComponent();
             _UserName = UserName;
            
-        }
-
-        async void BtnEncryptStringClick(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new View.Encrypt());
         }
 
         async void ViewPasswordClick(object Sender, EventArgs e)
@@ -46,7 +45,7 @@ namespace Project2.View
             Data.AccountDataAccessService adas = new Data.AccountDataAccessService();
             adas.DBConnection.DeleteAll<Model.Login>();
             Navigation.InsertPageBefore(new Login(), this);
-            await Navigation.PopAsync().ConfigureAwait(false);
+            await Navigation.PopAsync().ConfigureAwait(false); //(Ford,2016)
         }
 
     }

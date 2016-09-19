@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*References
+ * - emailregex, 2016, Email Address Regular Expression That 99.99% Works,emailregex, Retrived 14/09/2016
+ *   http://emailregex.com/ 
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -42,7 +46,7 @@ namespace Project2.View
                 error = true;
             }
 
-            //http://emailregex.com/
+            //(emailregex, 2016)
             Regex EmailCheck = new Regex("[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?");
 
             test = EmailCheck.Match(Email);
@@ -63,7 +67,7 @@ namespace Project2.View
             if (error == false)
             {
                 //On Regester also need a way of storing a variable for the username for inserting into accounts 
-                Navigation.InsertPageBefore(new MainPage(UserName), this);
+                Navigation.InsertPageBefore(new MainPage(UserName), this); //(Ford,2016)
                 await Navigation.PopAsync().ConfigureAwait(false);
             }
             else

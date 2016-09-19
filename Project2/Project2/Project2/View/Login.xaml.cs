@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*references
+ *- Ford,K,2015,Xamarin.Forms removing a page,StackOverFlow,Retrived 08/09/2016
+ *  http://stackoverflow.com/questions/29042792/xamarin-forms-removing-a-page
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -56,7 +60,7 @@ namespace Project2.View
                 //store login
                 adas.AddLogin(login);
                 //navigate to sync screen
-                Navigation.InsertPageBefore(new SyncWithApi(UserName), this);
+                Navigation.InsertPageBefore(new SyncWithApi(UserName), this); //(Ford,2016)
                 await Navigation.PopAsync().ConfigureAwait(false);
             }
             else
@@ -67,7 +71,7 @@ namespace Project2.View
 
         async void Register(object sender, EventArgs e)
         {
-            Navigation.InsertPageBefore(new Register(), this);
+            Navigation.InsertPageBefore(new Register(), this); //(Ford,2016)
             await Navigation.PopAsync().ConfigureAwait(false);
         }
     }

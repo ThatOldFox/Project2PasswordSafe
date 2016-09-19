@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--- Xamarin,2016,Xamarin.Forms.ActivityIndicator Class, Xamarin, Retrived 10/09/2016 https://developer.xamarin.com/api/type/Xamarin.Forms.ActivityIndicator/ -->
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Project2.View.SyncWithApi"
@@ -10,7 +11,7 @@
   <ContentPage.Content BackgroundColor="Teal" Padding="10,20,10,5">
     <ScrollView>
       <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Teal">
-        <ActivityIndicator Color="Black" IsRunning="true" />
+        <ActivityIndicator Color="Black" IsRunning="true" /><!--Xamarin,2016-->
         <Label WidthRequest="100" Text="Syncing With Database" HorizontalTextAlignment="Center" FontSize="20" TextColor="White" />
       </StackLayout>
     </ScrollView>

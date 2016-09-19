@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*references
+ *- Ford,K,2015,Xamarin.Forms removing a page,StackOverFlow,Retrived 08/09/2016
+ *  http://stackoverflow.com/questions/29042792/xamarin-forms-removing-a-page
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,13 +30,13 @@ namespace Project2.View
             if(error == false)
             {
                 //online mode
-                Navigation.InsertPageBefore(new MainPage(Username), this);
+                Navigation.InsertPageBefore(new MainPage(Username), this); //(Ford,2016)
                 await Navigation.PopAsync().ConfigureAwait(false);
             }
             else
             {
                 //offline mode
-                Navigation.InsertPageBefore(new MainPage(Username), this);
+                Navigation.InsertPageBefore(new MainPage(Username), this); //(Ford,2016)
                 await Navigation.PopAsync().ConfigureAwait(false);
             }
 

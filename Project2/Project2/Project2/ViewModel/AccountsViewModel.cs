@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*References
+ * - Seridonio,P,2016,Cryptography Shared Code,Xamarin, Retrieved 10/09/2016 
+ *   https://forums.xamarin.com/discussion/64399/cryptography-shared-code
+ */
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
@@ -38,7 +42,7 @@ namespace Project2.ViewModel
             List<DecryptedAccount> decryptedList = new List<DecryptedAccount>();
             foreach(Account a in list)
             {
-                decryptedList.Add(new DecryptedAccount { id = a.id, Username = Data.Crypto.DecryptFromBytes(a.Username), AccountName = Data.Crypto.DecryptFromBytes(a.AccountName), Password = Data.Crypto.DecryptFromBytes(a.Password) });
+                decryptedList.Add(new DecryptedAccount { id = a.id, Username = Data.Crypto.DecryptFromBytes(a.Username), AccountName = Data.Crypto.DecryptFromBytes(a.AccountName), Password = Data.Crypto.DecryptFromBytes(a.Password) }); //Seridonio,2016
             }
             return decryptedList;
         }

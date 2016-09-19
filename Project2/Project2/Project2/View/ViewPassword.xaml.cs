@@ -60,7 +60,7 @@ namespace Project2.View
                 //resync database
                 adas.Resync(_UserName);
                 //go back to main menu
-                Navigation.InsertPageBefore(new MainPage(_UserName), this);
+                Navigation.InsertPageBefore(new MainPage(_UserName), this); 
                 await Navigation.PopToRootAsync();
             }
             else

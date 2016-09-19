@@ -14,9 +14,15 @@ namespace Project2
             // The root page of your application
             Data.AccountDataAccessService adas = new Data.AccountDataAccessService();
             List<Model.Login> login = adas.GetLogin();
-            if(login.Count == 1)
+            if (login.Count == 1)
             {
                 var NP = new NavigationPage(new View.SyncWithApi(login[0].User));
+                MainPage = NP;
+            }
+            else if (login.Count > 1)
+            {
+                adas.DBConnection.DeleteAll<Model.Login>();
+                var NP = new NavigationPage(new View.Login());
                 MainPage = NP;
             }
             else
@@ -24,7 +30,7 @@ namespace Project2
                 var NP = new NavigationPage(new View.Login());
                 MainPage = NP;
             }
-           
+
         }
 
         protected override void OnStart()

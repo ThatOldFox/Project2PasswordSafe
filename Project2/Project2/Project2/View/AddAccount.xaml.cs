@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*References
+ * - Seridonio,P,2016,Cryptography Shared Code,Xamarin, Retrieved 10/09/2016 
+ *   https://forums.xamarin.com/discussion/64399/cryptography-shared-code
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,7 +67,7 @@ namespace Project2.View
             {
                 //notify user the account was added
                 Data.AccountDataAccessService adas = new Data.AccountDataAccessService();
-                adas.AddAccount(new Model.Account{ AccountName = Crypto.EncryptToBytes(txtAccountName.Text), Username = Crypto.EncryptToBytes(txtUsername.Text), Password = Crypto.EncryptToBytes(txtPassword.Text) });
+                adas.AddAccount(new Model.Account{ AccountName = Crypto.EncryptToBytes(txtAccountName.Text), Username = Crypto.EncryptToBytes(txtUsername.Text), Password = Crypto.EncryptToBytes(txtPassword.Text) }); //Seridonio,2016
                 txtUsername.Text = "";
                 txtPassword.Text = "";
                 txtAccountName.Text = "";

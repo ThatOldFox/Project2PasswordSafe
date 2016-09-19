@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*References
+ * - Seridonio,P,2016,Cryptography Shared Code,Xamarin, Retrieved 10/09/2016 
+ *   https://forums.xamarin.com/discussion/64399/cryptography-shared-code
+ */
+using System;
 using System.Security;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +13,7 @@ using System.Diagnostics;
 
 namespace Project2.Data
 {
-    public static class Crypto
+    public static class Crypto //Seridonio,2016
     {
         public static string EncryptToText(string text)
         {
@@ -63,7 +67,7 @@ namespace Project2.Data
             private static readonly byte[] _salt = Encoding.UTF8.GetBytes("12345678");
             private static readonly byte[] _derivedKey = NetFxCrypto.DeriveBytes.GetBytes(_passwordEncryption, _salt, _iterations, _keyLenght);
 
-            internal static byte[] Encrypt(string text)
+            internal static byte[] Encrypt(string text) //Seridonio,2016
             {
                 ISymmetricKeyAlgorithmProvider aesCrypto = WinRTCrypto.SymmetricKeyAlgorithmProvider.OpenAlgorithm(SymmetricAlgorithm.AesCbcPkcs7);
                 ICryptographicKey symmtricKey = aesCrypto.CreateSymmetricKey(_derivedKey);
@@ -75,7 +79,7 @@ namespace Project2.Data
             }
 
 
-            internal static string Decrypt(byte[] encryptedText)
+            internal static string Decrypt(byte[] encryptedText) //Seridonio,2016
             {
                 ISymmetricKeyAlgorithmProvider aesCrypto = WinRTCrypto.SymmetricKeyAlgorithmProvider.OpenAlgorithm(SymmetricAlgorithm.AesCbcPkcs7);
                 ICryptographicKey symmtricKey = aesCrypto.CreateSymmetricKey(_derivedKey);

@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*References
+ * - Seridonio,P,2016,Cryptography Shared Code,Xamarin, Retrieved 10/09/2016 
+ *   https://forums.xamarin.com/discussion/64399/cryptography-shared-code
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -15,7 +19,7 @@ namespace Project2.Data
     {
 
         HttpClient Client = new HttpClient();
-        List<DecryptedAccount> Accounts = null;
+        List<DecryptedAccount> Accounts = null; //Seridonio,2016
         string baseURL = "http://10.0.0.61:34592/api/conferencesessions/";
 
         #region Account Edits
@@ -169,12 +173,12 @@ namespace Project2.Data
                 {
 
                     var content = await response.Content.ReadAsStringAsync();
-                    Accounts = JsonConvert.DeserializeObject<List<DecryptedAccount>>(content);
+                    Accounts = JsonConvert.DeserializeObject<List<DecryptedAccount>>(content); //Seridonio,2016
                     AccountDataAccessService adas = new AccountDataAccessService();
                     adas.DBConnection.DeleteAll<Account>();
                     foreach (DecryptedAccount a in Accounts)
                     {
-                        adas.AddAccount(new Account() { AccountName = Crypto.EncryptToBytes(a.AccountName), Username = Crypto.EncryptToBytes(a.Username), Password = Crypto.EncryptToBytes(a.Password) });
+                        adas.AddAccount(new Account() { AccountName = Crypto.EncryptToBytes(a.AccountName), Username = Crypto.EncryptToBytes(a.Username), Password = Crypto.EncryptToBytes(a.Password) }); //Seridonio,2016
                     }
                 }
                 else
