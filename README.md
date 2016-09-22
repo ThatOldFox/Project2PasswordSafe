@@ -17,6 +17,25 @@ ASP.NET API Development Enviroment
 - .NET Framework 4.5.2
 
 
+API set up Visual Studio
+- set your project url in the project properties to as follows http://YOUR_IP_ADDRESS:34592/ and replace your ip address with your ip   address
+
+- Open the main project folder and go into the .VS file and open the config folder and file Vs folder may be hidden
+
+- Find the tag that says <site name="ConferenceSessionAPIs" id="2"> and replace the two binding tags with these replacing your ip       address with the one you used in the first step
+  <binding protocol="http" bindingInformation="*:34592:localhost" />
+	<binding protocol="http" bindingInformation="*:34592:YOUR_IP_ADDRESS" />
+
+- Finally open a cmd in administrator mode and insert the following commands Again replacing YOUR IP with the one used earlier
+
+    > netsh http add urlacl url=http://YOUR_IP_ADDRESS:34592/ user=everyone
+
+    > netsh advfirewall firewall add rule name="IISExpressWeb" dir=in protocol=tcp localport=34592 profile=private remoteip=localsubnet action=allow
+
+It should be now set up thanks
+
+
+
 References
 Xamarin Application
 - emailregex, 2016, Email Address Regular Expression That 99.99% Works,emailregex, Retrived 14/09/2016
